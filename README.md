@@ -19,7 +19,7 @@ there is no general consensus, and the causes of symptoms fluctate between indiv
     - intensity of pain (L,M,H).
     - type of pain (sharp, dull, burning etc.).
    - Key stroke data (700 files - condensed into one)
-    - this is data collected using a program which I have written, this counts the number of key strokes every 3 seconds and creates a csv at the end of the day.
+     - this is data collected using a program which I have written, this counts the number of key strokes every 3 seconds and creates a csv at the end of the day.
     
 ## Algorithms used
 - ___<span style="color:red">(Work in progress)</span>___
